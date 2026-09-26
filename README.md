@@ -10,7 +10,7 @@ You craft the locks on a normal crafting table. Two nuggets on top, two ingots u
 
 ## Install
 
-Put `build/Lockpicking.phar` in your server `plugins` folder and restart. API `5.44.7`.
+Download `Lockpicking.phar` from the [releases](https://github.com/CustomPM/Lockpicking/releases) page, put it in your server `plugins` folder, and restart. API `5.44.7`.
 
 ## Commands
 
