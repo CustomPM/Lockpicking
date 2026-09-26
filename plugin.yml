@@ -1,0 +1,24 @@
+name: Lockpicking
+main: HungerWars\lockpicking\LockpickingPlugin
+version: 1.0.0
+api: 5.44.7
+load: STARTUP
+author: HungerWars
+description: Locks, keys, and lockpicks for Altay.
+
+commands:
+  lockpick:
+    description: Lockin' & Pickin' commands
+    usage: "/lockpick <give|settings>"
+    permission: lockpicking.command
+
+permissions:
+  lockpicking.command:
+    description: Use /lockpick
+    default: true
+  lockpicking.give:
+    description: Give lockpicking items
+    default: op
+  lockpicking.settings:
+    description: Change world lock settings
+    default: op

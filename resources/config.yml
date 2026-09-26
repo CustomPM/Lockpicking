@@ -1,0 +1,14 @@
+# Locks can be picked with a lockpick.
+lockpicking-enabled: true
+
+# Encoded keys and keychains are returned on respawn.
+keep-keys-on-death: false
+
+# An unlocked container can be broken without its key.
+break-unlocked-blocks: false
+
+# Send the bundled Lockin' & Pickin' resource pack when a player joins.
+resource-pack: true
+
+# Players must accept the resource pack before they can join.
+force-resource-pack: false
